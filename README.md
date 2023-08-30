@@ -20,16 +20,6 @@ Install required Python packages:
 pip install -r requirements.txt
 ```
 
-TitleCraft/
-|-- src/
-|   |-- arxiv_scraper.py
-|   |-- text_processing.py
-|   |-- t5_training.py
-|   |--inference.py
-|-- main.py
-|-- requirements.txt
-|-- README.md
-
 ## Usage
 ```bash
 python3 main.py
