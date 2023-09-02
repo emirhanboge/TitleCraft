@@ -1,6 +1,6 @@
 # TitleCraft: Academic Title Generator
 
-This project aims to download papers from Arxiv based on specified topics, preprocess the paper summaries, and train a T5 model to generate titles for the papers. The project also provides functionalities to load a pre-trained model and generate titles for new summaries.
+This project aims to get abstracts and titles of academic from Arxiv based on specified topics, preprocess the abstracts, and train a T5 model to generate titles for the papers. The project also provides functionalities to load a pre-trained model and generate titles for new summaries.
 
 ## Installation
 
